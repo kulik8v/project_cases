@@ -3,5 +3,5 @@ This repository contains all published project cases that I have implemented in 
 
 ## Projects
 * [Cersanit](projects/cersanit.md)
-* [National Priorities](#National-Priorities)
-* [Rosa Khutor](#Rosa Khutor)
+* [National Priorities](projects/national_priorities.md)
+* [Rosa Khutor](projects/rosa_khutor.md)
