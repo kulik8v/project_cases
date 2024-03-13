@@ -1,5 +1,11 @@
 # Rosa Khutor
 
+## Project information
+* Domain: Hospitality Industry
+* Client: Rosa Khutor
+* Project URL: [First Bit](https://bit-24.ru/nashi-klienty/vnedrenie-korporativnogo-portala-na-bitriks24-i-ego-integratsiya-s-opera-dlya-seti-oteley-roza-khuto/); [Rosa Khutor](https://rosakhutor.com/news/roza-khutor-vnedryaet-novye-it-resheniya/)
+* Publications in the media: [CNews](https://www.cnews.ru/news/line/2023-12-12_pervyj_bit_razrabotal); [GlobalCIO](https://globalcio.ru/projects/36360/); [ComNews](https://www.comnews.ru/content/230654/2023-12-13/2023-w50/1010/kurort-roza-khutor-poluchil-novyy-portal)
+
 ## Project Description
 
 "Rosa Khutor" is a mountain resort located on the banks of the Mzymta River in the Adler District of Sochi.
