@@ -4,10 +4,10 @@
 [![Cersanit Project](https://img.youtube.com/vi/fa70jfIokf0/0.jpg)](https://www.youtube.com/watch?v=fa70jfIokf0)
 
 ## Project information
-* Domain: Non-Profit Organisations
-* Client: National Priorities
-* Project URL: [First Bit](https://bit-24.ru/nashi-klienty/vnedrenie-crm-bitriks24-dlya-ano-natsionalnye-prioritety/)
-* Publications in the media: [CNews](https://www.cnews.ru/news/line/2024-01-15_korporativnyj_portal_obedinil); [GlobalCIO](https://globalcio.ru/news/37770/); [ComNews](https://www.comnews.ru/content/231004/2024-01-15/2024-w03/1010/ano-nacionalnye-prioritety-obedinilo-rabochie-servisy-pomoschyu-korporativnogo-portala)
+* **Domain:** Non-Profit Organisations
+* **Client:** National Priorities
+* **Project URL:** [First Bit](https://bit-24.ru/nashi-klienty/vnedrenie-crm-bitriks24-dlya-ano-natsionalnye-prioritety/)
+* **Publications in the media:** [CNews](https://www.cnews.ru/news/line/2024-01-15_korporativnyj_portal_obedinil); [GlobalCIO](https://globalcio.ru/news/37770/); [ComNews](https://www.comnews.ru/content/231004/2024-01-15/2024-w03/1010/ano-nacionalnye-prioritety-obedinilo-rabochie-servisy-pomoschyu-korporativnogo-portala)
 
 ## Project Description
 

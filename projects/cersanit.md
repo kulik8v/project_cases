@@ -4,10 +4,10 @@
 [![Cersanit Project](https://img.youtube.com/vi/PQwiLFmxKz4/0.jpg)](https://www.youtube.com/watch?v=PQwiLFmxKz4)
 
 ## Project information
-* Domain: Ceramic Industry
-* Client: Cersanit
-* Project URL: [First Bit](https://bit-24.ru/nashi-klienty/perenos-proizvoditelya-keramicheskoy-plitki-keramik-solyushns-rus-cersanit-c-zarubezhnoy-srm-na-bitr/)
-* Publications in the media: [CNews](https://www.cnews.ru/news/line/2024-02-08_proizvoditel_interernoj); [GlobalCIO](https://globalcio.ru/news/38240/); [TAdvisor](https://www.tadviser.ru/index.php/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%9A%D0%B5%D1%80%D0%B0%D0%BC%D0%B8%D0%BA_%D0%A1%D0%BE%D0%BB%D1%8E%D1%88%D0%BD%D1%81_%D0%A0%D1%83%D1%81_(1%D0%A1-%D0%91%D0%B8%D1%82%D1%80%D0%B8%D0%BA%D1%8124)); [ComNews](https://www.comnews.ru/content/231476/2024-02-09/2024-w06/1010/cersanit-pereshel-otechestvennuyu-crm-sistemu); [TAdviser](https://www.tadviser.ru/index.php/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%9A%D0%B5%D1%80%D0%B0%D0%BC%D0%B8%D0%BA_%D0%A1%D0%BE%D0%BB%D1%8E%D1%88%D0%BD%D1%81_%D0%A0%D1%83%D1%81_(1%D0%A1-%D0%91%D0%B8%D1%82%D1%80%D0%B8%D0%BA%D1%8124)); [IT Channel News](https://www.novostiitkanala.ru/news/detail.php?ID=175076)
+* **Domain:** Ceramic Industry
+* **Client:** Cersanit
+* **Project URL:** [First Bit](https://bit-24.ru/nashi-klienty/perenos-proizvoditelya-keramicheskoy-plitki-keramik-solyushns-rus-cersanit-c-zarubezhnoy-srm-na-bitr/)
+* **Publications in the media:** [CNews](https://www.cnews.ru/news/line/2024-02-08_proizvoditel_interernoj); [GlobalCIO](https://globalcio.ru/news/38240/); [ComNews](https://www.comnews.ru/content/231476/2024-02-09/2024-w06/1010/cersanit-pereshel-otechestvennuyu-crm-sistemu); [TAdviser](https://www.tadviser.ru/index.php/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%9A%D0%B5%D1%80%D0%B0%D0%BC%D0%B8%D0%BA_%D0%A1%D0%BE%D0%BB%D1%8E%D1%88%D0%BD%D1%81_%D0%A0%D1%83%D1%81_(1%D0%A1-%D0%91%D0%B8%D1%82%D1%80%D0%B8%D0%BA%D1%8124)); [IT Channel News](https://www.novostiitkanala.ru/news/detail.php?ID=175076)
 
 ## Project Description
 
